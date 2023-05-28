@@ -1,0 +1,26 @@
+body {
+  padding: 0 1rem;
+  font-size: large;
+  background-color: rgb(255, 255, 250);
+  max-width: 576px;
+  margin: 1rem auto;
+}
+
+h1 {
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 0.15rem;
+  padding: 2rem;
+  border-bottom: 1px solid black;
+}
+
+h2 {
+  border-top: 1px solid #ede;
+  padding-top: 1rem;
+  letter-spacing: 0.05rem;
+}
+
+h2,
+h3 {
+  text-transform: capitalize;
+}
